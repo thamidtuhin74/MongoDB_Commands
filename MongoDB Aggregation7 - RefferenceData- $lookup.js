@@ -1,5 +1,8 @@
 //MongoDB Aggregation7 - RefferenceData- $lookup
 // embedded data vs Refference Data
+
+//NB: Working on order Collection
+
 // Syntax
 // $lookup: {
 //               from: "<collection to join>",
